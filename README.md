@@ -1499,7 +1499,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>BiskutBras</b>
-                    </sub>
+                                                                                                                                             </sub>
                 </a>
             </td>
             <td align="center">
@@ -1509,6 +1509,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub>
                         <b>Richa Tamhane</b>
+                    </sub>
+                </a>
+            </td>
+            </td>
+             <td align="center">
+                <a href="https://github.com/sp3249">
+                    <img src="https://avatars.githubusercontent.com/u/97686566?v=4" width="100px;"
+                        alt="Subham Panda" />
+                    <br />
+                    <sub>
+                        <b>Subham Panda</b>
                     </sub>
                 </a>
             </td>
